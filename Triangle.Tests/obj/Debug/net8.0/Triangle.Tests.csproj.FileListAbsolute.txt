@@ -99,3 +99,4 @@
 /home/rob/Projects/seng3020-UnitTest-lab/Triangle.Tests/obj/Debug/net8.0/Triangle.Tests.pdb
 /home/rob/Projects/seng3020-UnitTest-lab/Triangle.Tests/obj/Debug/net8.0/Triangle.Tests.genruntimeconfig.cache
 /home/rob/Projects/seng3020-UnitTest-lab/Triangle.Tests/obj/Debug/net8.0/ref/Triangle.Tests.dll
+/home/rob/Projects/seng3020-UnitTest-lab/Triangle.Tests/obj/Debug/net8.0/Triangle.Tests.sourcelink.json

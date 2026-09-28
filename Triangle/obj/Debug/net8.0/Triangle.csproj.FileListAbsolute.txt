@@ -9,3 +9,4 @@
 /home/rob/Projects/seng3020-UnitTest-lab/Triangle/obj/Debug/net8.0/refint/Triangle.dll
 /home/rob/Projects/seng3020-UnitTest-lab/Triangle/obj/Debug/net8.0/Triangle.pdb
 /home/rob/Projects/seng3020-UnitTest-lab/Triangle/obj/Debug/net8.0/ref/Triangle.dll
+/home/rob/Projects/seng3020-UnitTest-lab/Triangle/obj/Debug/net8.0/Triangle.sourcelink.json
