@@ -1,0 +1,11 @@
+/home/rob/Projects/seng3020-UnitTest-lab/Triangle/bin/Debug/net8.0/Triangle.deps.json
+/home/rob/Projects/seng3020-UnitTest-lab/Triangle/bin/Debug/net8.0/Triangle.dll
+/home/rob/Projects/seng3020-UnitTest-lab/Triangle/bin/Debug/net8.0/Triangle.pdb
+/home/rob/Projects/seng3020-UnitTest-lab/Triangle/obj/Debug/net8.0/Triangle.GeneratedMSBuildEditorConfig.editorconfig
+/home/rob/Projects/seng3020-UnitTest-lab/Triangle/obj/Debug/net8.0/Triangle.AssemblyInfoInputs.cache
+/home/rob/Projects/seng3020-UnitTest-lab/Triangle/obj/Debug/net8.0/Triangle.AssemblyInfo.cs
+/home/rob/Projects/seng3020-UnitTest-lab/Triangle/obj/Debug/net8.0/Triangle.csproj.CoreCompileInputs.cache
+/home/rob/Projects/seng3020-UnitTest-lab/Triangle/obj/Debug/net8.0/Triangle.dll
+/home/rob/Projects/seng3020-UnitTest-lab/Triangle/obj/Debug/net8.0/refint/Triangle.dll
+/home/rob/Projects/seng3020-UnitTest-lab/Triangle/obj/Debug/net8.0/Triangle.pdb
+/home/rob/Projects/seng3020-UnitTest-lab/Triangle/obj/Debug/net8.0/ref/Triangle.dll
